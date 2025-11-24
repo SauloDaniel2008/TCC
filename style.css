@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+
+body{   
+    display: flex;
+}
+
+#pessoal{
+    background-color: rgb(222, 230, 0) ;
+    margin: 15px;
+    color: black;
+}
+
+#profissional{
+    background-color: rgb(218, 49, 227);
+    margin:40px;
+    color: white;
+}
